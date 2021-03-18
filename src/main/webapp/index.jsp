@@ -11,7 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page New After Removing</th>
+                        <th colspan="2">Login Page</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -28,7 +28,7 @@
                         <td><input type="reset" value="Reset" /></td>
                     </tr>
                     <tr>
-                        <td colspan="2">New User Register<a href="register.jsp">Register Here</a></td>
+                        <td colspan="2">New User:<a href="register.jsp">Register Here</a></td>
                     </tr>
                 </tbody>
             </table>
